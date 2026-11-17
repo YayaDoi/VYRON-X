@@ -1,6 +1,6 @@
 {
-  "LatestVersion": "1.15.0",
-  "DownloadUrl": "https://github.com/YayaDoi/VYRON-X/releases/download/v1.15.0/VYRON.X.exe",
-  "Sha256": "33785E8C26EB5CD57C0A82EC664356BC2469111B3999013B159F78709BE3DD83",
-  "Notes": "Smart Timer Resolution: 0.5 ms clock applied only while gaming."
+  "LatestVersion": "1.15.1",
+  "DownloadUrl": "https://github.com/YayaDoi/VYRON-X/releases/download/v1.15.1/VYRON.X.exe",
+  "Sha256": "C6B83672685E30AB036C3AD3AD71C4757B5C1B5B1619AA15E16C550E8B7FF647",
+  "Notes": "Updater robustness fix for locked download destinations."
 }
