@@ -1,6 +1,6 @@
 {
-  "LatestVersion": "1.15.1",
-  "DownloadUrl": "https://github.com/YayaDoi/VYRON-X/releases/download/v1.15.1/VYRON.X.exe",
-  "Sha256": "C6B83672685E30AB036C3AD3AD71C4757B5C1B5B1619AA15E16C550E8B7FF647",
-  "Notes": "Updater robustness fix for locked download destinations."
+  "LatestVersion": "1.16.0",
+  "DownloadUrl": "https://github.com/YayaDoi/VYRON-X/releases/download/v1.16.0/VYRON.X.exe",
+  "Sha256": "965AA26776C8B6A176D7D6AC28014651F6B4A7EE527C4558EAF970DBBC29A6D0",
+  "Notes": "Background styles: pick your backdrop type and color on the Settings page. Update check now retries automatically."
 }
