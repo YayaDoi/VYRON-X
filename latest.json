@@ -1,6 +1,6 @@
 {
-  "LatestVersion": "1.14.0",
-  "DownloadUrl": "https://github.com/YayaDoi/VYRON-X/releases/download/v1.14.0/VYRON.X.exe",
-  "Sha256": "7B2669C916475EB8C0D56FC1BEF6D951337CFB66EC34E0B7DA4F7C58A90C03BA",
-  "Notes": "Thermal guard, in-app update checker, Live FPS fix."
+  "LatestVersion": "1.15.0",
+  "DownloadUrl": "https://github.com/YayaDoi/VYRON-X/releases/download/v1.15.0/VYRON.X.exe",
+  "Sha256": "33785E8C26EB5CD57C0A82EC664356BC2469111B3999013B159F78709BE3DD83",
+  "Notes": "Smart Timer Resolution: 0.5 ms clock applied only while gaming."
 }
