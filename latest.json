@@ -1,6 +1,6 @@
 {
-  "LatestVersion": "1.17.0",
-  "DownloadUrl": "https://github.com/YayaDoi/VYRON-X/releases/download/v1.17.0/VYRON.X.exe",
-  "Sha256": "2BC40777880CF49CD6C3AEA786CEDA49D3FA7E951E9A98108925F8398E59866A",
-  "Notes": "Particles background type (auto-paused while gaming) + Celsius/Fahrenheit temperature units."
+  "LatestVersion": "1.18.0",
+  "DownloadUrl": "https://github.com/YayaDoi/VYRON-X/releases/download/v1.18.0/VYRON.X.exe",
+  "Sha256": "2C052E256D36261419D4BB95BC00AFD94A2A32FFEC57CAE5BAB8F4BD097BDD9E",
+  "Notes": "Welcome tour, settings export/import, automatic update check, safer crash dialog and capped log size."
 }
