@@ -1,6 +1,6 @@
 {
-  "LatestVersion": "1.18.0",
-  "DownloadUrl": "https://github.com/YayaDoi/VYRON-X/releases/download/v1.18.0/VYRON.X.exe",
-  "Sha256": "2C052E256D36261419D4BB95BC00AFD94A2A32FFEC57CAE5BAB8F4BD097BDD9E",
-  "Notes": "Welcome tour, settings export/import, automatic update check, safer crash dialog and capped log size."
+  "LatestVersion": "1.19.0",
+  "DownloadUrl": "https://github.com/YayaDoi/VYRON-X/releases/download/v1.19.0/VYRON.X.exe",
+  "Sha256": "A79FDD043FDDEAFE53C9553EE4A958D07F88616AE211B288BAC8C2B3AC21129C",
+  "Notes": "Deep Tune engine: reversible scheduling pack, smart standby memory purge, EcoQoS background throttle, before/after FPS measurement, and in-game DNS/temp maintenance."
 }
