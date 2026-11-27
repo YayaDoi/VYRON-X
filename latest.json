@@ -1,6 +1,6 @@
 {
-  "LatestVersion": "1.19.0",
-  "DownloadUrl": "https://github.com/YayaDoi/VYRON-X/releases/download/v1.19.0/VYRON.X.exe",
-  "Sha256": "A79FDD043FDDEAFE53C9553EE4A958D07F88616AE211B288BAC8C2B3AC21129C",
-  "Notes": "Deep Tune engine: reversible scheduling pack, smart standby memory purge, EcoQoS background throttle, before/after FPS measurement, and in-game DNS/temp maintenance."
+  "LatestVersion": "1.19.1",
+  "DownloadUrl": "https://github.com/YayaDoi/VYRON-X/releases/download/v1.19.1/VYRON.X.exe",
+  "Sha256": "91AAF40B3223301524391A67EB51CD8D7273657EA83927F688ECEBAA87586566",
+  "Notes": "Freeze and wallpaper fixes: standby purge no longer wipes the file cache, Lite Boost no longer starves the shell, and your desktop background is restored after a boost."
 }
